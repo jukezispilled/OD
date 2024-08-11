@@ -37,7 +37,7 @@ function App() {
           <div className=''>
             OD
             <div className='text-center text-xs md:text-base'>
-              CA: updating...
+              CA: 9uxooPoaAuHk6XXerBTAAa8X26GHNhUGFRQrLxCQpump
             </div>
           </div>
         </div>
