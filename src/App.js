@@ -34,7 +34,7 @@ function App() {
           <source src={`${process.env.PUBLIC_URL}/swall.mp4`} type="video/mp4" />
         </video>
         <div className='h-screen w-screen absolute inset-0 opacity-45 flex justify-center items-center text-[250px] leading-none text-[#45D2FF] font-extrabold -mt-[15%]'>
-          <div className=''>
+          <div className='text-center'>
             OD
             <div className='text-center text-xs md:text-base'>
               CA: 9uxooPoaAuHk6XXerBTAAa8X26GHNhUGFRQrLxCQpump
